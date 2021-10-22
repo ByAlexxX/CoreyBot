@@ -6,15 +6,13 @@ const meme = (prefix, botName, ownerName) => {
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerName}
 ◪ *ABOUT*
-  │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  • ❏ ${prefix}info
+  • ❏ ${prefix}blocklist
+  • ❏ ${prefix}chatlist
+  • ❏ ${prefix}ping
+  • ❏ ${prefix}bugreport
 ◪ *MEME*
-  │
-  ├─ ❏ ${prefix}meme
-  └─ ❏ ${prefix}memeindo`
+  • ❏ ${prefix}meme
+  • ❏ ${prefix}memeindo`
 }
 exports.meme = meme
