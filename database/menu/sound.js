@@ -6,14 +6,12 @@ const sound = (prefix, ownerBot, botName) => {
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerBot}
 ◪ *ABOUT*
-  │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  • ❏ ${prefix}info
+  • ❏ ${prefix}blocklist
+  • ❏ ${prefix}chatlist
+  • ❏ ${prefix}ping
+  • ❏ ${prefix}bugreport
 ◪ *SOUND*
-  │
-  └─ ❏ ${prefix}tts`
+  • ❏ ${prefix}tts`
 }
 exports.sound = sound
