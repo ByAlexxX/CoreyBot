@@ -6,17 +6,15 @@ const music = (prefix, ownerBot, botName) => {
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerBot}
 ◪ *ABOUT*
-  │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  • ❏ ${prefix}info
+  • ❏ ${prefix}blocklist
+  • ❏ ${prefix}chatlist
+  • ❏ ${prefix}ping
+  • ❏ ${prefix}bugreport
 ◪ *MUSIC*
-  │
-  ├─ ❏ ${prefix}play
-  ├─ ❏ ${prefix}joox
-  ├─ ❏ ${prefix}lirik
-  └─ ❏ ${prefix}chord`
+  • ❏ ${prefix}play
+  • ❏ ${prefix}joox
+  • ❏ ${prefix}lirik
+  • ❏ ${prefix}chord`
 }
 exports.music = music
