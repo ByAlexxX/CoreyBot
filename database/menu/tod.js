@@ -6,15 +6,13 @@ const tod = (prefix, ownerBot, botName) => {
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerBot}
 ◪ *ABOUT*
-  │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  • ❏ ${prefix}info
+  • ❏ ${prefix}blocklist
+  • ❏ ${prefix}chatlist
+  • ❏ ${prefix}ping
+  • ❏ ${prefix}bugreport
 ◪ *TOD*
-  │
-  ├─ ❏ ${prefix}trust
-  └─ ❏ ${prefix}dare`
+  • ❏ ${prefix}trust
+  • ❏ ${prefix}dare`
 }
 exports.tod = tod
