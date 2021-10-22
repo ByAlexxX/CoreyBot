@@ -6,16 +6,14 @@ const stickermaker = (prefix, botName, ownerName) => {
   ❏ Prefix: 「  ${prefix}  」
   ❏ Creator: ${ownerName}
 ◪ *ABOUT*
-  │
-  ├─ ❏ ${prefix}info
-  ├─ ❏ ${prefix}blocklist
-  ├─ ❏ ${prefix}chatlist
-  ├─ ❏ ${prefix}ping
-  └─ ❏ ${prefix}bugreport
+  • ❏ ${prefix}info
+  • ❏ ${prefix}blocklist
+  • ❏ ${prefix}chatlist
+  • ❏ ${prefix}ping
+  • ❏ ${prefix}bugreport
 ◪ *STICKER MAKER*
-  │
-  ├─ ❏ ${prefix}sticker
-  ├─ ❏ ${prefix}stickergif
-  └─ ❏ ${prefix}ttp`
+  • ❏ ${prefix}sticker
+  • ❏ ${prefix}stickergif
+  • ❏ ${prefix}ttp`
 }
 exports.stickermaker = stickermaker
