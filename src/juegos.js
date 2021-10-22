@@ -11,9 +11,9 @@ Conoce que tan gay eres 😎
 ${prefix}cuties
 Prueba tu suerte en el medidor de fan de cuties 😱
 
-_*En futuras versiones colocare mas juegos :)*_
+_*En futuras versiones colocare mas juegos, atte: Su Admin:)*_
      
-_*by shanduy*_
+_*by Alexx*_
 `
 
 }
